@@ -1,0 +1,23 @@
+.app {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  height: 100%;
+  padding: 2rem;
+  max-width: 450px;
+  margin: auto;
+  height: fit-content;
+  margin-top: 16px;
+}
+
+.nav {
+  display: flex;
+  justify-content: center;
+  gap: 4px;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
